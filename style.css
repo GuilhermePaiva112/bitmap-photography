@@ -49,6 +49,10 @@ a {
     text-decoration: none;
 }
 
+#navbar>div>ul>li>a:hover {
+    color:#fcdc00;
+}
+
 #search {
     width: 232px;
     height: 60px;
